@@ -35,14 +35,13 @@ CREATE TABLE products (
 
 )
 ```
-[Ilustração](https://i.ibb.co/QkXvrbF/Screenshot-from-2024-03-22-19-27-06.png)
+![Ilustração](https://i.ibb.co/QkXvrbF/Screenshot-from-2024-03-22-19-27-06.png)
 
 ## Fluxo do projeto
 
-Preparei uma diagrama simples que pode ilustar o fluxo de processamento do projeto.
+Preparei um diagrama simples que pode ilustrar o fluxo de processamento do projeto.
 
-[Fluxo](https://i.ibb.co/d4Tx1nh/Screenshot-from-2024-03-22-19-51-20.png)
-
+![Fluxo](https://i.ibb.co/d4Tx1nh/Screenshot-from-2024-03-22-19-51-20.png)
 
 ## Como Iniciar
 
