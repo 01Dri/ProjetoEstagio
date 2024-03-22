@@ -1,9 +1,8 @@
 # Agradecimentos e observações
 1. Primeiro quero agradecer muito pela oportunidade!!!!
-2. Caso queira ler esse arquivo formatado corretamente, o projeto se encontra no GitHub
+2. Caso queira ler esse arquivo formatado corretamente, o projeto se encontra no GitHub: [Link](https://github.com/01Dri/ProjetoEstagio)
 3. Meu perfil no Linkedin: [Link](https://www.linkedin.com/in/dridev/)
 
-[Link](https://github.com/01Dri/ProjetoEstagio)
 # Projeto de Cadastro de Produtos
 O projeto consiste em duas partes distintas: o front-end e o back-end.
 
