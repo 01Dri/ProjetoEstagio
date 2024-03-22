@@ -1,8 +1,9 @@
 # Agradecimentos e observações
 Primeiro quero agradecer muito pela oportunidade!!!!
-Caso queira ler esse arquivo formatado corretamente, o projeto se encontra no GitHUB
-[Link](https://github.com/01Dri/ProjetoEstagio)
+Caso queira ler esse arquivo formatado corretamente, o projeto se encontra no GitHub
+Meu perfil no Linkedin: [Link](https://www.linkedin.com/in/dridev/)
 
+[Link](https://github.com/01Dri/ProjetoEstagio)
 # Projeto de Cadastro de Produtos
 O projeto consiste em duas partes distintas: o front-end e o back-end.
 
@@ -66,5 +67,4 @@ O projeto possui 4 endpoints principais, sendo 2 para o frontend e 2 para o back
 - **Interface de Listagem de Produtos (Frontend) (GET):** [http://127.0.0.1:8000/listagem](http://127.0.0.1:8000/listagem)
 - **Endpoint para Retornar os Produtos em JSON (Backend) (GET):** [http://127.0.0.1:8000/products](http://127.0.0.1:8000/products)
 - **Endpoint para Salvar os Produtos (Backend) (POST):** [http://127.0.0.1:8000/products/save](http://127.0.0.1:8000/products/save)
-
 
